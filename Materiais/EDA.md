@@ -452,6 +452,9 @@ plt.show()
 | de Caixa (Box Plot) | mostrar como os dados são distribuídos com base em um resumo estatístico de cinco números. Uma pequena “caixa” indica que a maioria dos dados está dentro de um intervalo consistente, enquanto uma caixa maior indica que os dados estão distribuídos de forma mais ampla. | Distribuição |
 
 ## Material complementar
+
 [Artigo da IBM sobre análise exploratória](http://ibm.com/think/topics/exploratory-data-analysis)
+
 [Documentação do matplotlib](https://matplotlib.org/), que inclui tutoriais
+
 [Documentação do pandas](https://pandas.pydata.org/), que também inclui muitos exemplos
