@@ -1,6 +1,6 @@
 # Informações
 
-O arquivo "análise_univariada_bivariada.inpynb" contém as análises iniciais dos dados, para entender a estrutura do dataset e gerar conclusões para a análise completa, bem como as análises bivariadas e multivariadas entre dados. Já o arquivo "PS.ipynb" contém a análise a partir do cruzamento dos dados de forma mais geral. Foram feitas estas duas abordagens, com o intuito de reunir diferentes análises de acordo com a disponibilidade dos integrantes, e então combinar as informações obtidas para uma análise final.
+O arquivo "análise_univariada_bivariada.inpynb" contém as análises iniciais dos dados, para entender a estrutura do dataset e gerar conclusões para a análise completa, bem como as análises bivariadas e multivariadas entre dados. Já o arquivo "PS.ipynb" contém a análise a partir do cruzamento dos dados de forma mais geral, com a geração de features e um modelo de previsão heurístico básico. Foram feitas estas duas abordagens, com o intuito de reunir diferentes análises de acordo com a disponibilidade dos integrantes, e então combinar as informações obtidas para uma análise final.
 
 # **ForecastFC - Modelo de Machine Learning para Previsão de Resultados Futebolísticos**
 
