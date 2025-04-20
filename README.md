@@ -1,3 +1,7 @@
+# Informações
+
+O arquivo "análise_univariada_bivariada.inpynb" contém as análises iniciais dos dados, para entender a estrutura do dataset e gerar conclusões para a análise completa. Já o arquivo "PS.ipynb" contém a análise a partir do cruzamento dos dados, para gerar features.
+
 # **ForecastFC - Modelo de Machine Learning para Previsão de Resultados Futebolísticos**
 
 ![Imagem de capa](https://github.com/UFRJ-Analytica/PS-2025.1/blob/main/capa.png)
